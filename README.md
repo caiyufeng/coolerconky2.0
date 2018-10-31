@@ -1,5 +1,5 @@
 ## Conky configuration
-<img src='1920x1080.jpg' width='900px'>
+<img src='02.png' width='900px'>
 
 ## Installation
 - Clone repo `git clone https://github.com/alexbel/conky.git ~/.conky`
@@ -33,16 +33,6 @@ Required:
 Conky libs:  
   - conky-imlib2
 
-Gmail:  
-  - ruby >= 1.9.3
-
-  gems:  
-  - ruby-gmail
-  - mime
-
-Weather:  
-  - [wunderground](https://github.com/wnadeau/wunderground) gem
-  - api_key from http://www.wunderground.com/weather/api/
 
 ### Install gems
 - go to the conky folder (i.e. ~/.conky)
